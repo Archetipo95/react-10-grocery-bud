@@ -1,5 +1,5 @@
 /*
-=============== 
+===============
 Variables
 ===============
 */
@@ -45,7 +45,7 @@ Variables
   --fixed-width: 620px;
 }
 /*
-=============== 
+===============
 Global Styles
 ===============
 */
@@ -159,7 +159,7 @@ main {
   place-items: center;
 }
 /*
-=============== 
+===============
 Grocery List
 ===============
 */
@@ -269,8 +269,8 @@ Grocery List
   background: transparent;
   border-color: transparent;
   cursor: pointer;
-  font-size: 0.7rem;
-  margin: 0 0.15rem;
+  font-size: 1rem;
+  margin: 0 0.35rem;
   transition: var(--transition);
 }
 .edit-btn {
