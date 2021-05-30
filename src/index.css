@@ -143,10 +143,11 @@ p {
 }
 
 .section-center {
-  width: 90vw;
+  width: 95vw;
   margin: 0 auto;
   max-width: 35rem;
   margin-top: 8rem;
+  margin-bottom: 4rem;
 }
 @media screen and (min-width: 992px) {
   .section-center {
@@ -270,11 +271,12 @@ Grocery List
   border-color: transparent;
   cursor: pointer;
   font-size: 1rem;
-  margin: 0 0.35rem;
   transition: var(--transition);
 }
+
 .edit-btn {
   color: var(--clr-green-light);
+  margin: 0 0.35rem;
 }
 .edit-btn:hover {
   color: var(--clr-green-dark);
